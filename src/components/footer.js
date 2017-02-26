@@ -6,7 +6,7 @@ export const Footer = () => {
 	<footer className="page-footer center-on-small-only">
 		<div className="footer-copyright">
             <div className="container-fluid wow fadeInRight">
-               © 2016 Copyright: <a href="https://sajao-f63ea.firebaseapp.com/"> Sajao.com </a>
+               © 2016 Copyright: <a href="https://sajao-f63ea.firebaseapp.com/"> localhost </a>
             </div>
         </div>
      </footer>
